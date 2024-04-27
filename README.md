@@ -46,3 +46,6 @@ Con el fin de que estos procesos de programación sea mas digerible, revisemos e
 :three:**Tercer paso**. Acá se inicia el codificado, parte fundamental del proceso de programación... Al tener definidas las instrucciones en el segundo paso, se puede proceder a escribir el lenguaje de programación directamente en la computadora portátil o de escritorio.
 
 :four:**Cuarto paso**. El último paso es el momento realizar las pruebas, lo que permite nos revisar si el resultado es favorable o no.
+
+> [!NOTE]
+> Ésta es una información incial. Te sugerimos profundizar e investigar con respecto al tema. TalentoTech una excelente oportunidad para iniciar en el mundo de la programación de computadores.
