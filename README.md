@@ -4,3 +4,13 @@ Los computadores hoy en día dominan nuestro mundo y nos permiten llevar a cabo 
 
 <img src="images/prog.png" height="200px" />
 <h6>Extraído de [Euroinnova.co](https://www.euroinnova.co/blog/que-es-programacion-de-computadoras).
+
+# ¿Qué encontrarás aquí?
+1. ¿Qué es la programación de un computador?
+   - Lenguajes de programación
+2. La programación en 4 pasos.
+
+# ¿Qué es la programación de un computador?
+La programación de computadores consiste en organizar y estructurar una serie de órdenes por medio de un algoritmo que deriva, o da pie, a ciertas acciones en el ordenador. En una definición más sencilla, podemos también decir que es la forma de comunicarle al computador lo que tiene que hacer a través de un lenguaje de programación.
+
+Para comprender mejor qué es la programación y su concepto, también tenemos que conocer sobre los lenguajes que utilizan, para hacerla óptima y operativa...
