@@ -22,13 +22,13 @@ Los lenguajes de programación están formado por un conjunto de símbolos y pal
 
 Existen lenguajes de bajo nivel, como el lenguaje ensamblador o lenguaje máquina, que poco a poco ha quedado en el olvido gracias a los nuevos lenguajes de programación, considerados de alto nivel o lenguajes especiales. Entre los algoritmos más conocidos encontramos...
 
-Fortran.
-C.
-C++.
-Pascal.
-Java.
-Python.
-JavaScript.
++ :point_right:Fortran.
++ :point_right:C.
++ :point_right:C++.
++ :point_right:Pascal.
++ :point_right:Java.
++ :point_right:Python.
++ :point_right:JavaScript.
 
 Entender qué es la programación de computadores es fundamental para aquellos que trabajan  como desarrolladores web, creadores de software, aplicaciones y sistemas informáticos. Y evidentemente para aprender estas habilidades en programación es necesario formarse continuamente y aplicar la práctica frecuentemente.
 
@@ -37,7 +37,10 @@ Ahora, para comprender mucho mejor todo lo relacionado a lo que es programación
 # La programación de computadoras en 4 pasos
 Con el fin de que estos procesos de programación sea mas digerible, revisemos estos pasos que pueden aplicarse para cualquier tipo de programación...
 
-**Primer paso**. Aquí se debe identificar el problema, es decir, se determina qué es lo que se quiere mejorar, innovar o solucionar a través del programa. Es la parte crítica para el programador, ya que debe desarrollar un plan integral que le permita determinar todo lo que hará el programa, es más sencillo abordarlo como un problema matemático.
-**Segundo paso**. en este punto, se plantea la solución al problema determinado en el primer paso. Aquí se hace una idea o boceto de lo que se hará y se determinan las herramientas y lenguajes a utilizar en la programación.
-**Tercer paso**. Acá se inicia el codificado, parte fundamental del proceso de programación... Al tener definidas las instrucciones en el segundo paso, se puede proceder a escribir el lenguaje de programación directamente en la computadora portátil o de escritorio.
-**Cuarto paso**. El último paso es el momento realizar las pruebas, lo que permite nos revisar si el resultado es favorable o no.
+:one:**Primer paso**. Aquí se debe identificar el problema, es decir, se determina qué es lo que se quiere mejorar, innovar o solucionar a través del programa. Es la parte crítica para el programador, ya que debe desarrollar un plan integral que le permita determinar todo lo que hará el programa, es más sencillo abordarlo como un problema matemático.
+
+:two:**Segundo paso**. en este punto, se plantea la solución al problema determinado en el primer paso. Aquí se hace una idea o boceto de lo que se hará y se determinan las herramientas y lenguajes a utilizar en la programación.
+
+:three:**Tercer paso**. Acá se inicia el codificado, parte fundamental del proceso de programación... Al tener definidas las instrucciones en el segundo paso, se puede proceder a escribir el lenguaje de programación directamente en la computadora portátil o de escritorio.
+
+:four:**Cuarto paso**. El último paso es el momento realizar las pruebas, lo que permite nos revisar si el resultado es favorable o no.
