@@ -16,7 +16,9 @@ La programación de computadores consiste en organizar y estructurar una serie d
 Para comprender mejor qué es la programación y su concepto, también tenemos que conocer sobre los lenguajes que utilizan, para hacerla óptima y operativa...
 
 # Lenguajes de programación de computadores
-Empecemos por definir ¿Qué es un lenguaje de programación de computadores exactamente? Es una serie o secuencias de código escrito que se emplean en la creación y desarrollo de programas. 
+Empecemos por definir ¿Qué es un lenguaje de programación de computadores exactamente? Es una serie o secuencias de código escrito que se emplean en la creación y desarrollo de programas.
+
+<img src="images/lenguajes.jpg" height="200px" />
 
 Los lenguajes de programación están formado por un conjunto de símbolos y palabras que el programador debe aprender para poder dictar las directrices a la computadora.
 
@@ -44,3 +46,6 @@ Con el fin de que estos procesos de programación sea mas digerible, revisemos e
 :three:**Tercer paso**. Acá se inicia el codificado, parte fundamental del proceso de programación... Al tener definidas las instrucciones en el segundo paso, se puede proceder a escribir el lenguaje de programación directamente en la computadora portátil o de escritorio.
 
 :four:**Cuarto paso**. El último paso es el momento realizar las pruebas, lo que permite nos revisar si el resultado es favorable o no.
+
+> [!NOTE]
+> Ésta es una información incial. Te sugerimos profundizar e investigar con respecto al tema. TalentoTech una excelente oportunidad para iniciar en el mundo de la programación de computadores.
